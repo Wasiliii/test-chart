@@ -28,3 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # novatech-test
 # novatech-test
 # test-chart
+
+---
+permalink: /index.html
+---
